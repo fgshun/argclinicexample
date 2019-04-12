@@ -15,7 +15,7 @@ $ python3 setup.py develop
 $ py.test
 ```
 
-Python 3.7 用となっていますのでその他のバージョンでビルドするためには
+Python 3.5 用となっていますのでその他のバージョンでビルドするためには
 該当する [cpython](https://github.com/python/cpython.git) を git clone するなどして該当するバージョンの clinic.py を用意して実行、
 そして setup.cfg の python requires をあわせてください。
 
