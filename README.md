@@ -1,4 +1,4 @@
-# 技術書典6 KLab tech book vol.3 Argument Clinic を使ってみよう
+# 技術書典6 KLab tech book vol.4 Argument Clinic を使ってみよう
 
 Argument Clinic を使って C 言語で書いた CPython モジュールです。次のコードと同じように動きます。
 
